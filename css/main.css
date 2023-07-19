@@ -24,7 +24,7 @@ body{
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: papayawhip;
     line-height: 2.5em;
 }
 /*
@@ -43,7 +43,7 @@ h1.page-header{
  
 
  main.wrapper {
-    background-color: white;
+    background-color:papayawhip;
     overflow: auto;
     -moz-border-radius-bottomleft: 5px;
     -moz-border-radius-bottomright: 5px;
